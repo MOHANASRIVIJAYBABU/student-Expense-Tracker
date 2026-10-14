@@ -6,8 +6,8 @@ Label: Debian
 Suite: stable-updates
 Version: 13-updates
 Codename: trixie-updates
-Date: Tue, 13 Oct 2026 08:11:41 UTC
-Valid-Until: Tue, 20 Oct 2026 08:11:41 UTC
+Date: Wed, 14 Oct 2026 02:08:26 UTC
+Valid-Until: Wed, 21 Oct 2026 02:08:26 UTC
 Acquire-By-Hash: yes
 No-Support-for-Architecture-all: Packages
 Architectures: all amd64 arm64 armel armhf i386 ppc64el riscv64 s390x
@@ -425,29 +425,29 @@ SHA256:
  0040f94d11d0039505328a90b2ff48968db873e9e7967307631bf40ef5679275       32 non-free/source/Sources.xz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEETLUBkCB7R1ij9zp5btDnuCZD4TEFAmrN5/QACgkQbtDnuCZD
-4TF43w/+KeyFl0dmuP+sGxhjifMxfiEDP3VtsmXoxNDhFzLD+BQa8W2CeQzzI4Ij
-2d125Y05b3eJVLmRAAIJxNtnokA2zAHJiph4bdwj/2SaqeTjVXQCdKzdwNpt+mBG
-GouoPCk9YNrGe8FwZeM2yx8+nkwKMyPDEXinUGRwCgxluVMwHCjhaMaL6sCttAzc
-PuhyH0HLvIrGMlhDTuVOIZcY4keh/p//y7mFdt0BGHEuE9125b7SI8shPs9LhljH
-i9j/76fXsn7Y40HE6/q9F24yQ2cy86a0OZ57ujRRVzHrN4vz1JPZjFJIAkfnLFlx
-xVs2EydUBC9JMdeh+brNqzwCGk7D+UIReD8lrOCl72FXOp05DcSWty6TJsTQCDRa
-5m716OYczJoYd+zm+cfjaPCBs5TUxpoThX8bIhXl9NvUxdTSl7EqI3/d04q28kJH
-RdFm9TEZSisBw9E2v7Eo3p3kcUX/pFtlFWA0TLDAGzyprnvdsurHfrqeVDBVEjXv
-ZEg7u5+EjmWdrncRSdxmP58fcezoAw7K9cdFLZKzIVdsXcI+IKfpxNflFKiad+ht
-chMiFqnecwLUMCZlqSHxj2yKuiauzfcyKwGpfU/5apwihws/qZN6G/opuU+w7sOM
-TbosjfDCrKVtDkiBRn0QcQa5ndPrt05uKTcIYPg0aLGoos1WBbeJAjMEAQEIAB0W
-IQS45fExdtKnp1IgAoB426O8R+8iZQUCas3oCAAKCRB426O8R+8iZal/D/9EC6Du
-WzCjSfYX0/1/yf0ODW8tcDPtXxzHledftgGvYid8NaNiSsjecfo3Val3SOnmW79B
-m7uSnw1N29VLOUauL5tydTTxYwXTJfP3MH3kRqz0LO/btPcbcdl2JAhB1GyKVBHg
-MQfgId1vyaHYWoKXYlBFllhJ2FW+8edj8tWvnrCBdyqGlvS8i0bz1BiZLlWYLWIN
-DJf4nf/4l+DiuanYKjSlk+vPVN63mayRhPWxmb+2kK5OGAltJOB4RHrclmBq71+1
-+YRzAmXhPrHLsildKora044S8KyW/O0X57k2uHxxTmnZO5oCa+EXk08/T1mYR/TV
-MlkWF/g+wYOg8yQF6yFMHt0ZpTSOpa4NPa9N4tqUty3Mj9Uf/1u7s0o5fBZuhQHf
-Yy1zze9XW+atWH2OF4e+bhc/NvfBuXC4Nb+AzelvsRufmnXCtZL7iNQqAK0MCi1D
-4pov7tfj8PiRnwtax8kPlfuDPaBd4fxkVH949PdnBlPZjIRmPKycxA13H3wGd98C
-depNh1UVicNewbv2ADHDnXuLwElm/dBatc0oXD0eqKXibRZzyhmMF0nLTj20PZTm
-y/mpkdqrYorzOFjmnc9iiIC2YiO++aDEe3zRWV0pEe6PqC6nnLc2GPwkKzHiarBY
-Y82/Oep+/KkIwA0898eMZcYZT9z5xXE0zbf/Tw==
-=FfPe
+iQIzBAEBCAAdFiEETLUBkCB7R1ij9zp5btDnuCZD4TEFAmrO5D8ACgkQbtDnuCZD
+4TF5zA//deYVONDcYR+NLekJKvSmztHro6CSn/cmIV7fZd+0yHEMadOFyXFpnAIu
+MlP7zTdb7i6hJ+E6om/zJfzLid/PTzKU4APbwOkqlIvEWIsBDT8GbnvshBswYuCW
+qtQy2t0U2stu1pscKcXMMK+6buICe3CHrRpHU+/cmTL6bJjDgcwC0d9f/TW3qpKO
+N9c0WFqVK8RCZyYXBDtBwNjw/MRpJtdrS5CoSC9Wt3jgjbhjngBOeMXOTnqVeasW
+hYKMdKTd+04rzGDsBjwRAuSQy5/qixltULxAC/sbJH6poRvXi6uQP+zjJVhFFves
+ubtnvFklMF0bCDP4qUNVQJtopsBkuGN8ggFXUR201Te8epLNLcxRkUTrnbxJk0JA
+WHcMezX5DyCwcKv9ANYJd4/zW9MOpxc6zHgURchGBE1m+z0dNG0yaj/qniEZPi+t
+sYSL9eoEL0oXd+RJz0j0fJWXGoe+wVWLoCD22llIo+zPWwfGW+mezWQmu91MrYqp
+e3IoA8tRgz/uEgkEhSzxafvIo+2fs0gS8Zufe5Znx8EVKtIbYopCKP4EPp8Zt9Zh
+0vsdstOlMIZ+e6sqJVEpGicPlV4OnVPU8/+GXQApXVX3gYgL4+cksFc7iyCdL+2E
+qRXicTCqoyh2g6WiIu23q7Yv5NGJCTo/3gOcbv8WC9evw33MDYKJAjMEAQEIAB0W
+IQS45fExdtKnp1IgAoB426O8R+8iZQUCas7kUwAKCRB426O8R+8iZYXTEACkqwWU
+i/a/vWJvjpZAi5MqpJINiHRlFKtjjKqEZYKPIsWt8IkZ23L+69D4zoCEyXt2RGYx
+pItXsPH3n0ZJZt2qoZu49SdgL+HyGvr4rTOjybHIQGXkfBJkW0tf5cfb9gQuiJXy
+z9OUjUxYfwspe/PpBTmtLe0ztjv/TABFh1G14p4aqmHySdMhWGvo+JgblFzsgFDC
+jheFEc/l5gpYKgPusF6WX4JsrBgDU01psjb4uPJByErkjMrek1IbFsEMEIZ/gExQ
+eU3zMT4sxzbZ3GfPxpGd7QRWog/8Z7lAsGi6MgPQYWzMROCGWYfbFwVP81JJM1w0
+ZY7fRsY49hQCrok9qCYrNArKTG5nRS2n5KgN18KaJ+Xgz+IWeUnqjr6gvLo5faOD
+i65YFSA6kb9SHe8aKFiLiXkuWTmG3DGoQsPqjkdE3KDX5UcK2WQ8mmc2hYqyOY2N
+qjxjzoe1gvbuNxHp93/cRjJ9y+hqCqtm3eOotZWUQqSeCyw9ZBLwiVvAtHOXpLtl
+nyM6kg3PLkIjr4hNOh40q5f95u8ioesMyefNVR0aj3yQgu4DGscrQe5U0E9KQ4V8
+Ovo/vVtgKrgk/l/DadlAaJVnlZxdDkeUrlbDQaV/oeWE4i62zINNB91foTcfpAKd
+/F8uRVMYdbzPfCiXenFYrlxws83rlPNyep5O6w==
+=FGmH
 -----END PGP SIGNATURE-----

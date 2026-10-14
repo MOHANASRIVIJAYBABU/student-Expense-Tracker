@@ -1,28 +1,17 @@
 <?php
 
 $host = "db01.dbhost.dev";
-$port = 5051;
-$dbname = "db_453eknehn";
-$username = "user_453eknehn";
+$user = "user_453eknehn";
 $password = "p453eknehn";
+$database = "db_453eknehn";
+$port = 5051;
 
-try {
+$conn = new mysqli($host, $user, $password, $database, $port);
 
-    $conn = new PDO(
-        "mysql:host=$host;port=$port;dbname=$dbname;charset=utf8mb4",
-        $username,
-        $password
-    );
-
-    $conn->setAttribute(
-        PDO::ATTR_ERRMODE,
-        PDO::ERRMODE_EXCEPTION
-    );
-
-} catch (PDOException $e) {
-
-    die("Database connection failed: " . $e->getMessage());
-
+if ($conn->connect_error) {
+    die("Database Connection Failed: " . $conn->connect_error);
 }
+
+$conn->set_charset("utf8mb4");
 
 ?>

@@ -20,7 +20,7 @@ $result = $conn->query(
 
 if ($result) {
 
-    while ($row = $result->fetch(PDO::FETCH_ASSOC)) {
+    while ($row = $result->fetch_assoc()) {
 
         if ($row["type"] == "income") {
             $total_income = $row["total"];
